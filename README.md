@@ -1,7 +1,6 @@
 # lammed-web
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Front end for my first actual app. Childcare management software kind of sucks. The good stuff is expensive. Ember is awesome. Children are our future. I'm trying to do my part. 
 
 ## Prerequisites
 
